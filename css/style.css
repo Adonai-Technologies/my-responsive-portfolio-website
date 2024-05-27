@@ -115,8 +115,9 @@ span{
 
 
 .home-img img{
-    width: 35vw;
+    width: 27vw;
     animation: floatImage 4s ease-in-out infinite;
+    border-radius: 10px;
 }
 
 
@@ -189,7 +190,9 @@ span{
 }
 
 .about-img img{
-    width: 35vw;
+    width: 25vw;
+    border-radius: 15px;
+    
 }
 
 
