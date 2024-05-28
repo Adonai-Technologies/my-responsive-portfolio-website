@@ -299,6 +299,7 @@ span{
     box-shadow: 0 0 1rem var(--bg-color);
     overflow: hidden;
     display: flex;
+    cursor: pointer;
 }
 
 
